@@ -29,8 +29,10 @@ The application analyzes metadata (such as cuisines, names, and location data) f
 ## 📊 The Dataset
 The model is trained on a comprehensive dataset of 9,500+ restaurants, utilizing key features like restaurant names, primary cuisines, and geographic data to establish similarity scores.
 ### 1. Clone the repository
-git clone [https://github.com/yourusername/restaurant-recommender.git](https://github.com/yourusername/restaurant-recommender.git)
+Bash
+git clone 
 cd restaurant-recommender
+
 ### 2. Install dependencies
 Ensure Python is installed, then run:
 
